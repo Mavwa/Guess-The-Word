@@ -1,0 +1,69 @@
+body
+{
+	background: lightblue;
+	font-family: Snell Roundhand, cursive;
+	font-weight: bolder;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(https://i.pinimg.com/originals/f5/1b/45/f51b455176c2913d9ca40ab1f55fa74f.jpg);
+	font-size: 35px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: gold;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	font-size: 25px;
+	
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#Mahatwa{
+	font-family: Trattatello, fantasy;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+
+	font-size: 50px;
+}
+
+#game{
+	font-family: Chalkduster, fantasy;
+	background-color: indianred;
+	color : wheat;
+}
+
+#button{
+	width: 150px;
+	height: 80px;
+	font-size: 40px;
+}
+
+#p{
+	font-size: 25px;
+}
+
